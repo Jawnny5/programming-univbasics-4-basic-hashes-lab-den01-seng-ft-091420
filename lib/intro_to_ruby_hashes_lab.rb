@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  gma_hash = {grandmasta : "Hash"}
+  {grandmasta : "Hash"}
 end
 
 def pioneer
