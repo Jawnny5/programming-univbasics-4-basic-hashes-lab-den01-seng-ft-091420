@@ -3,8 +3,9 @@ def new_hash
 end
 
 def my_hash
-  gma_hash = {}
+  gma_hash = {grandmasta : "Hash"}
   gma_hash[:key, value]
+
 end
 
 def pioneer
